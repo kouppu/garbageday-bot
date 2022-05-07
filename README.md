@@ -1,6 +1,7 @@
 # garbageday-bot
 
-ごみ収集日をLINEに通知するBOT
+ごみ収集日をLINEに通知するBOTです。  
+`schedule.json`に、該当するごみ収集日があれば通知します。
 
 ## Installation
 
