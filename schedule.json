@@ -1,0 +1,24 @@
+{
+  "garbageDays": [
+    {
+      "name": "普通ごみ",
+      "weekday": 1,
+      "weekdayInMonth": 0
+    },
+    {
+      "name": "ペットボトル回収",
+      "weekday":2,
+      "weekdayInMonth": 1
+    },
+    {
+      "name": "ペットボトル回収",
+      "weekday":2,
+      "weekdayInMonth": 3
+    },
+    {
+      "name": "普通ごみ",
+      "weekday": 4,
+      "weekdayInMonth": 0
+    }
+  ]
+}
